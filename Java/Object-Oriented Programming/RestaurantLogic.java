@@ -1,10 +1,4 @@
-/*18. Write a Java program to create a class called "Restaurant" with attributes for menu items, prices, and ratings, and methods to add and remove items, and to calculate average rating.
 
-    Extra Added:
-        Place order, billing, tip to waiter
-
-*/
-package Question18;
 import java.util.ArrayList;
 
 class Restaurant{
