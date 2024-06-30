@@ -281,7 +281,7 @@ class RegularCustomer extends Customer{
     }
 }
 
-public class Restaurant {
+public class ProjectRestaurant {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Restaurant restaurant = new Restaurant("Grand Vitara", "Ground Floor, Near Syndicate Bank, Pochinki, BGMI, 210110");
